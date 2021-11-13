@@ -20,7 +20,7 @@ Problem Statement<br/>
 
 
   
- <a href="https://documenter.getpostman.com/view/11617094/TzzBqwCX">Api Documentation</a>
+ <a href="https://documenter.getpostman.com/view/11617094/UVC8DRvd">Api Documentation</a>
     <br />
 
   </p>
@@ -61,7 +61,7 @@ Creating , Updating , Reading , Deleting , Sorting , Ordering , Filtering  , Pag
 ## API Documentation
 
 
-[Postman api documentation](https://documenter.getpostman.com/view/11617094/UVC3jnya)
+[Postman api documentation](https://documenter.getpostman.com/view/11617094/UVC8DRvd)
 
 
 ## Features
