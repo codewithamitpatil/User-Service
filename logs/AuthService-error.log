@@ -1,0 +1,13 @@
+{"level":"error","message":"BadRequestError: 191amitwebdev2019@gmail.com This Email Is Already Taken","service":"AuthService","sta":400,"timestamp":"2021-11-13 20:11:12"}
+{"level":"error","message":"BadRequestError: 191amitwebdev2019@gmail.com This Email Is Already Taken","service":"AuthService","sta":400,"timestamp":"2021-11-13 20:11:39"}
+{"level":"error","message":"BadRequestError: 191amitwebdev2019@gmail.com This Email Is Already Taken","service":"AuthService","sta":400,"timestamp":"2021-11-13 20:11:15"}
+{"level":"error","message":"BadRequestError: 191amitwebdev2019@gmail.com This Email Is Already Taken","service":"AuthService","sta":400,"timestamp":"2021-11-13 20:11:91"}
+{"level":"error","message":"BadRequestError: 191amitwebdev2019@gmail.com This Email Is Already Taken","service":"AuthService","sta":400,"timestamp":"2021-11-13 21:11:40"}
+{"level":"error","message":"BadRequestError: 191amitwebdev2019@gmail.com This Email Is Already Taken","service":"AuthService","sta":400,"timestamp":"2021-11-13 21:11:14"}
+{"level":"error","message":"UnauthorizedError: Invalid Username or Password","service":"AuthService","sta":401,"timestamp":"2021-11-13 22:11:17"}
+{"level":"error","message":"TypeError [ERR_INVALID_ARG_TYPE]: The \"string\" argument must be of type string or an instance of Buffer or ArrayBuffer. Received an instance of Object","service":"AuthService","sta":500,"timestamp":"2021-11-13 22:11:46"}
+{"level":"error","message":"AuthenticationError: Unauthorized","service":"AuthService","sta":401,"timestamp":"2021-11-13 22:11:00"}
+{"level":"error","message":"AuthenticationError: Unauthorized","service":"AuthService","sta":401,"timestamp":"2021-11-13 22:11:04"}
+{"level":"error","message":"AuthenticationError: Unauthorized","service":"AuthService","sta":401,"timestamp":"2021-11-13 22:11:14"}
+{"level":"error","message":"AuthenticationError: Unauthorized","service":"AuthService","sta":401,"timestamp":"2021-11-13 22:11:09"}
+{"level":"error","message":"AuthenticationError: Unauthorized","service":"AuthService","sta":401,"timestamp":"2021-11-13 22:11:29"}
