@@ -49,7 +49,7 @@ const development = {
       service: "gmail",
       auth:{
             user: 'amitwebdev2019@gmail.com',
-            pass: '8888565473'
+            pass: ''
            } ,
       tls: {
             rejectUnauthorized: false
@@ -121,7 +121,7 @@ const production = {
       service: "gmail",
       auth:{
             user: 'amitwebdev2019@gmail.com',
-            pass: '8888565473'
+            pass: ''
            } ,
       tls: {
             rejectUnauthorized: false
